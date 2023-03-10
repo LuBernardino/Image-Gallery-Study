@@ -1,4 +1,4 @@
-<h1 align="center">GALLERY STUDY!! 🏞️</h1>
+<h1 align="center">IMAGE GALLERY STUDY!! 🏞️</h1>
 <br>
  
 ## 🍦Space Cream.
